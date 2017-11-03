@@ -16,6 +16,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <spinner
+            android:id="@+id/drop_spinner"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+
+
     </application>
 
 </manifest>
